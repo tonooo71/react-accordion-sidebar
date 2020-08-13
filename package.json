@@ -1,0 +1,29 @@
+{
+  "name": "react-accordion-sidebar",
+  "version": "0.0.1",
+  "description": "React component for the sidebar with accordion block",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonooo71/react-accordion-sidebar.git"
+  },
+  "author": "tonooo71",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tonooo71/react-accordion-sidebar/issues"
+  },
+  "homepage": "https://github.com/tonooo71/react-accordion-sidebar#readme",
+  "keywords": [
+    "react",
+    "react-component",
+    "accordion-block",
+    "sidebar"
+  ],
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  }
+}

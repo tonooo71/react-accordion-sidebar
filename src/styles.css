@@ -1,0 +1,30 @@
+.a-s-sidebar {
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+  height: 100%;
+}
+
+.a-s-blank {
+  flex-grow: 1;
+  flex-shrink: 1;
+}
+
+.a-s-block-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.a-s-block-slider {
+  cursor: row-resize;
+}
+
+.a-s-block-title {
+  cursor: pointer;
+  font-size: small;
+  user-select: none;
+}
+
+.a-s-block-content {
+  overflow: auto;
+}
